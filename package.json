@@ -1,0 +1,28 @@
+{
+  "name": "Employee_Management_System",
+  "version": "1.0.0",
+  "description": "keeping employee records",
+  "main": "eTracking.js",
+  "scripts": {
+    "start": "node eTracking.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skimmers/Employee_Management_System.git"
+  },
+  "keywords": [],
+  "author": "Sharon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skimmers/Employee_Management_System/issues"
+  },
+  "homepage": "https://github.com/skimmers/Employee_Management_System#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4",
+    "promise-mysql": "^4.1.3"
+  }
+}
