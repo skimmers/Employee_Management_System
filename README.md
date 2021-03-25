@@ -34,7 +34,7 @@ This field may be null if the employee has no manager
 
 # My Application 
 
-I am still trying to get it to work. I'm able to get the prompts to run but can not generate the table for some reason. Please lead me in the right direction.
+I was able to get it to work :) Please check out a demo of my app here: <https://youtu.be/nlvo4FSN97s>
 
 # Purpose
 
